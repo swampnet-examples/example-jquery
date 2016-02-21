@@ -4,5 +4,9 @@ body {
 }
 
 .highlight {
-    color: red;
+    background-color: red;
+}
+
+.bobify {
+    color: green;
 }
