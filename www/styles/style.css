@@ -2,3 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #d0e4fe;
 }
+
+.highlight {
+    color: red;
+}
